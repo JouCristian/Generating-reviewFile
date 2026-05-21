@@ -9,3 +9,6 @@
 - 终端执行python文件 *python csp_word_generator_v9.py input.txt*
 
 ## 大功告成！已自动生成word和pdf文件
+
+---
+> 因为python脚本代码是根据作者当时写CCF-CSP算法题的场景下设计的，因此你会发现标题以及页脚的设置是CSP，你可以很轻松地在代码中找到并修改它们💕💕💕
