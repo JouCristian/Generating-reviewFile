@@ -20,5 +20,5 @@ AI 驱动的 CSP 算法题复盘 Word/PDF 自动生成系统
 
 ---
 ## 快速开始
-详情见具体使用指南.md
+[详情见具体使用指南.md](https://github.com/JouCristian/Generating-reviewFile/blob/main/Code-review-generator/generator/README.md)
 ## 🚀🚀🚀╰(*°▽°*)╯
